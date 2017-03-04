@@ -1,5 +1,5 @@
 $(document).ready(function () {
-
+//hihi
 
 var list = ['NYC', 'SF', 'LA', 'ATX', 'SYD']
 
@@ -31,6 +31,6 @@ $('select').change(function (){
   else if (text == 'SYD') {
       $('body').attr('class', 'sy')
     }
-
+//hi
 });
   })
